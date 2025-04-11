@@ -7,9 +7,6 @@ This is a simple browser-based 2D action game built using HTML, CSS, and JavaScr
 - Avoid the zombie or defeat it with your sword!
 - Timer counts down — survive until time runs out.
 
-## 🚀 Live Demo
-Play the game here: [https://lakshanrl2711.github.io/2D-WEB-GAME/](https://lakshanrl2711.github.io/2D-WEB-GAME/)
-
 ## 📁 Files Included
 - `index.html` – Main structure
 - `style.css` – Styling
